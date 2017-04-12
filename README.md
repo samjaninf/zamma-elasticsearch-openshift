@@ -1,0 +1,1 @@
+"# zamma-elasticsearch-openshift" 
